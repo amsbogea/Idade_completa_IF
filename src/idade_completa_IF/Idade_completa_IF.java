@@ -42,6 +42,8 @@ public class Idade_completa_IF {
 		}
 			
 		System.out.println("A idade da pessoa é de " + idadeAno + " anos, " + idadeMes + " meses e " + idadeDia + " dias.");
+		
+		input.close();
 	}
 
 }
